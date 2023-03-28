@@ -15,15 +15,15 @@ Dentro del ramo Prototyping for Bioengineers, se realizan talleres prácticos se
 
     fecha: 23 de Marzo del 2023  
     Descripción: Nos enseñaron cómo funcionan las impresoras 3D en general y a crear archivos en la "Prusa3D" para luego mandar a imprimir. 
-    Tarea: Descargar un archivo .stl de algún diseño 3D disponible en la plataforma [UltiMaker Thingiverse](https://www.thingiverse.com/), para luego, en Prusa3D, modificarlo según lo deseado, laminarlo y guardarlo como archivo gcode. 
+    Tarea: Descargar un archivo .stl de algún diseño 3D disponible en la plataforma [UltiMaker Thingiverse](https://www.thingiverse.com/), para luego, en Prusa3D, modificarlo según lo deseado, laminarlo y guardarlo como archivo gcode.  
     Imágen/Resultado: _por subir_
     
 - __ACTIVIDAD 03__
 
     fecha: 30 de Marzo del 2023  
-    Descripción: _por subir_ 
-    Tarea: _por subir_. 
-    Imágen/Resultado: _por subir_
+    Descripción: _por subir_  
+    Tarea: _por subir_  
+    Imágen/Resultado: _por subir_  
     
 # Proyecto Final
-En esta sección se registrará el proceso y resultados del proyecto final que realizaré en el curso
+En esta sección se registrará el proceso y resultados del proyecto final que realizaré en el curso.

@@ -5,7 +5,7 @@ Hola! mi nombre es Daniela Gómez.
 Soy estudiante de sexto año de ingeniería civil en la Universidad Católica, con major y minor en biomedicina y titulo aun no determinado (>.<).  
 # Talleres/Ayudantías
 Dentro del ramo Prototyping for Bioengineers, se realizan talleres prácticos semanales donde aplicamos lo aprendido en las horas de cátedra. En esta sección iré subiendo las distintas actividades que realicemos con el fin de ir dejando un registro de mi aprendizaje y paso por el curso.  
--__ACTIVIDAD 01__
+- __ACTIVIDAD 01__
 
     fecha: 16 de Marzo del 2023  
     Descripción: En esta instancia aprendimos a utilizar Github y a cómo crear páginas web a partir de éste mismo. 

@@ -14,7 +14,7 @@ Dentro del ramo Prototyping for Bioengineers, se realizan talleres prácticos se
 - __ACTIVIDAD 02__
 
     fecha: 23 de Marzo del 2023  
-    Descripción: Nos enseñaron cómo funcionan las impresoras 3D en general y a crear archivos en la "Prusa3D" para luego mandar a imprimir. 
+    Descripción: Nos enseñaron cómo funcionan las impresoras 3D en general y a crear archivos en la "Prusa3D" para luego mandar a imprimir.  
     Tarea: Descargar un archivo .stl de algún diseño 3D disponible en la plataforma [UltiMaker Thingiverse](https://www.thingiverse.com/), para luego, en Prusa3D, modificarlo según lo deseado, laminarlo y guardarlo como archivo gcode.  
     Imágen/Resultado: _por subir_
     

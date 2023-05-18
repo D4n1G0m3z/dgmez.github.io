@@ -58,6 +58,7 @@ Dentro del ramo Prototyping for Bioengineers, se realizan talleres prácticos se
     No hay mucho que observar en estas imágenes, pero deja confirmado, aun que ya se sabía, que este cuero era sintético. 
     
 - __ACTIVIDAD 06__ 
+    
     fecha: 18 de mayo del 2023 
     Descripción: Este práctico tuvo el objetivo de que podamos llevar a la practica lo visto en clases, sobre los diseños “open source” vinculados a papers de investigación. Específicamente, armamos un modelo físico de un controlador de flujo de jeringa  propuesto en el paper [“Syringe Pump Created using 3D Printing Technology and Arduino Platform”](https://link.springer.com/article/10.1134/S1061934820030156), guiándonos por las instrucciones de armado  disponibles en la [página web](http://www.mass-spec.ru/projects/diy/syringe_pump/eng/) del proyecto. Los componentes, entregados por el equipo docente, consistían en tornillos de distintos tamaños, tuercas, dos rodamientos, un eje de giro, dos ejes de soporte, un motor y cuatro piezas de impresión 3D. Dado que no disponíamos exactamente de los mismos materiales que el diseño del paper, se realizaron ciertas variaciones en el diseño. 
     

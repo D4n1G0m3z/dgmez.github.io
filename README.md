@@ -55,7 +55,21 @@ Dentro del ramo Prototyping for Bioengineers, se realizan talleres prácticos se
     También se observan claramente las células, tiene características muy similares a las imágenes anteriores, dado que ambos corresponden a la superficie externa de una misma planta, sin embargo, a la vez son muy distintas, lo que hace sentido, pues son brotes distintos. 
     
     Cuero: (insertar imagen) 
-    No hay mucho que observar en estas imágenes, pero deja confirmado, aun que ya se sabía, que este cuero era sintético.
+    No hay mucho que observar en estas imágenes, pero deja confirmado, aun que ya se sabía, que este cuero era sintético. 
+    
+- __ACTIVIDAD 06__ 
+    fecha: 18 de mayo del 2023 
+    Descripción: Este práctico tuvo el objetivo de que podamos llevar a la practica lo visto en clases, sobre los diseños “open source” vinculados a papers de investigación. Específicamente, armamos un modelo físico de un controlador de flujo de jeringa  propuesto en el paper [“Syringe Pump Created using 3D Printing Technology and Arduino Platform”](https://link.springer.com/article/10.1134/S1061934820030156), guiándonos por las instrucciones de armado  disponibles en la [página web](http://www.mass-spec.ru/projects/diy/syringe_pump/eng/) del proyecto. Los componentes, entregados por el equipo docente, consistían en tornillos de distintos tamaños, tuercas, dos rodamientos, un eje de giro, dos ejes de soporte, un motor y cuatro piezas de impresión 3D. Dado que no disponíamos exactamente de los mismos materiales que el diseño del paper, se realizaron ciertas variaciones en el diseño. 
+    
+    Una vez armado el modelo, colocamos la jeringa, que en mi caso era de 20 ml y conectamos el motor a un controlador. Este dispositivo, permite dar como input el diámetro de la jeringa (19.13 mm en este caso) y el flujo deseado. 
+    
+    Resultados: funcionó correctamente la bomba construida. Se probó con distintos flujos y se observo que al ser muy grande la jeringa, era necesario un flujo grande para que recién se pudieran ver gotitas de agua formándose en la salida, en comparación a las jeringas de mis compañeros, que eran de 10 ml y 3 ml. 
+    
+    Imágenes del proceso: (por subir)
+    
+    
+    Video del funcionamiento: (por subir, si es posible)
+
 
     
 # Proyecto Final

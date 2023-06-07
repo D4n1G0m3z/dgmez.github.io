@@ -18,6 +18,10 @@ Dentro del ramo Prototyping for Bioengineers, se realizan talleres prácticos se
     Tarea: Descargar un archivo .stl de algún diseño 3D disponible en la plataforma [UltiMaker Thingiverse](https://www.thingiverse.com/), para luego, en Prusa3D, modificarlo según lo deseado, laminarlo y guardarlo como archivo gcode.  
     Imágen/Resultado: _por subir_
     
+    ![20230607_161058](https://github.com/D4n1G0m3z/dgmez.github.io/assets/115666180/943685e6-0f78-4c3d-816c-29d21da321ec)
+    ![20230511_115435](https://github.com/D4n1G0m3z/dgmez.github.io/assets/115666180/092a7249-9451-4d42-97b1-248ccc88c89d)
+
+    
 - __ACTIVIDAD 03__
 
     fecha: 13 de Abril del 2023  
@@ -49,12 +53,24 @@ Dentro del ramo Prototyping for Bioengineers, se realizan talleres prácticos se
     Imágen/Resultado: 
     
     Planta esférica: (insertar imagen) 
+    
+    ![20230511_112836](https://github.com/D4n1G0m3z/dgmez.github.io/assets/115666180/ae252484-0010-4480-ae75-8fc9eb5a1a12)
+    ![20230511_114107](https://github.com/D4n1G0m3z/dgmez.github.io/assets/115666180/bccde5dd-1ddd-40e1-adc3-bf04568b89c1)
+
+
     Se pueden ver las células claramente y en algunas partes se observa algo similar a un poro. Estas células se notan como si estuvieran cubiertas con algo, lo que se estima ser cera creada por la planta para recubrir sus superficies. 
     
-    Piel de planta esférica aplastada: (insertar imagen) 
+    Piel de planta esférica aplastada: (insertar imagen)
+    
+    ![20230511_112111](https://github.com/D4n1G0m3z/dgmez.github.io/assets/115666180/376c6c8a-c1b1-42b3-bce9-f1fa7d4a22de)
+    
     También se observan claramente las células, tiene características muy similares a las imágenes anteriores, dado que ambos corresponden a la superficie externa de una misma planta, sin embargo, a la vez son muy distintas, lo que hace sentido, pues son brotes distintos. 
     
     Cuero: (insertar imagen) 
+    
+    ![20230511_114355](https://github.com/D4n1G0m3z/dgmez.github.io/assets/115666180/b1df9af8-d34b-41f8-897f-91506a9147c5)
+    
+    
     No hay mucho que observar en estas imágenes, pero deja confirmado, aun que ya se sabía, que este cuero era sintético. 
     
 - __ACTIVIDAD 06__ 
@@ -70,7 +86,14 @@ Dentro del ramo Prototyping for Bioengineers, se realizan talleres prácticos se
     Imágenes del proceso: (por subir)
     
     
+    ![20230518_102314](https://github.com/D4n1G0m3z/dgmez.github.io/assets/115666180/ab49d415-bb35-4d46-a6d9-0d8aedd96849)
+    ![20230518_113455](https://github.com/D4n1G0m3z/dgmez.github.io/assets/115666180/18a624f7-31f0-4c37-849a-24bbd62415d6)
+    ![20230518_113509](https://github.com/D4n1G0m3z/dgmez.github.io/assets/115666180/97d9f908-978b-409f-879e-b7b9f93fa250)
+    
+    
     Video del funcionamiento: (por subir, si es posible)
+    
+    https://github.com/D4n1G0m3z/dgmez.github.io/assets/115666180/d27139c1-c780-4289-84a1-293e131bc06a
 
 
 
@@ -88,3 +111,16 @@ Dentro del ramo Prototyping for Bioengineers, se realizan talleres prácticos se
     
 # Proyecto Final
 En esta sección se registrará el proceso y resultados del proyecto final que realizaré en el curso.
+
+
+
+
+
+
+
+
+
+
+
+
+

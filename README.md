@@ -73,6 +73,18 @@ Dentro del ramo Prototyping for Bioengineers, se realizan talleres prácticos se
     Video del funcionamiento: (por subir, si es posible)
 
 
+
+- __ACTIVIDAD 07__ 
+    
+    fecha: 25 de mayo del 2023 
+
+    Descripción: En esta experiencia, trabajamos con arduino y realizamos distintas actividades para familiarizarnos y jugar con la secuencia de código de este mismo. Para comenzar, se nos pidió conectar mediante protoboard una lamparita y lograr que se prendiera y apagara cada cierto intervalo de tiempo (1). Luego, se conectaron dos lamparitas más, quedando así con tres lamparitas de colores distintos. La tarea fue hacer que se prendieran en secuencia de semáforo (2). Después, se dio un tiempo para que cada persona jugara e implementara cualquier secuencia que se le ocurriera, ya sea cambiando la secuencia de código o variando los desfases de tiempo impuestos (3). Finalmente, se conectó un motor pequeño con el fin de hacerlo funcionar en las dos direcciones de giro posibles y distintas velocidades (4).
+
+    Codigos y resultados:
+    Código (1)
+    Video (1)
+    
+    
     
 # Proyecto Final
 En esta sección se registrará el proceso y resultados del proyecto final que realizaré en el curso.
